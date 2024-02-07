@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vk NewsClient</string>
+    <string name="community_logo_description">Community logo description</string>
+    <string name="navigation_item_main">Главная</string>
+    <string name="navigation_item_favorite">Избранное</string>
+    <string name="navigation_item_profile">Профиль</string>
+    <string name="button_login">Войти</string>
+    <string name="comments_title">Комментарии</string>
+    <integer name="com_vk_sdk_AppId">51721878</integer>
+</resources>
